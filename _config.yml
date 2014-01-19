@@ -1,0 +1,5 @@
+url: mrobotics-seminar.github.io
+#markdown: rdiscount
+permalink: pretty
+pygments: true
+exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
