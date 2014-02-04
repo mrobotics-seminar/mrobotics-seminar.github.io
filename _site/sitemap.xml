@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>mrobotics-seminar.github.io/</loc>
-		<lastmod>2014-01-22</lastmod>
+		<lastmod>2014-02-04</lastmod>
+	</url>
+	
+	<url>
+		<loc>mrobotics-seminar.github.io/2014/03/19/grizzle/</loc>
+		<lastmod>2014-03-19</lastmod>
+	</url>
+	
+	<url>
+		<loc>mrobotics-seminar.github.io/2014/02/19/revzen/</loc>
+		<lastmod>2014-02-19</lastmod>
 	</url>
 	
 	<url>
